@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://eph-blog.netlify.app/
 languageCode: es-ar
 title: eph
 theme: hugo-ink

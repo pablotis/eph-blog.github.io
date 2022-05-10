@@ -2,11 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eph-blog.netlify.app/about/</loc>
-    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
+    <loc>https://eph-blog.netlify.app/posts/2022-05-09-bienvenida/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/tags/codigoabierto/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/tags/eph/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eph-blog.netlify.app/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/posts/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/tags/rstats/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/tags/rstatses/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/tags/softwarelibre/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eph-blog.netlify.app/tags/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eph-blog.netlify.app/about/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
 </urlset>

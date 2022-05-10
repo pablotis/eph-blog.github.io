@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on eph</title>
-    <link>https://eph-blog.netlify.app/posts/</link>
-    <description>Recent content in Posts on eph</description>
+    <title>RstatsES on eph</title>
+    <link>https://eph-blog.netlify.app/tags/rstatses/</link>
+    <description>Recent content in RstatsES on eph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>© eph-blog</copyright>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eph-blog.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eph-blog.netlify.app/tags/rstatses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
       <link>https://eph-blog.netlify.app/posts/2022-05-09-bienvenida/</link>

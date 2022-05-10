@@ -6,7 +6,17 @@
     <description>Recent content on eph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <copyright>© eph-blog</copyright><atom:link href="https://eph-blog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© eph-blog</copyright>
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eph-blog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenida</title>
+      <link>https://eph-blog.netlify.app/posts/2022-05-09-bienvenida/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/posts/2022-05-09-bienvenida/</guid>
+      <description>Hola! Queda inauguado este espacio para compartir ejercicios de procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). La propuesta es mostrar y compartir distintos ejercicios de procesamiento de datos con los paquetes eph y pyeph</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://eph-blog.netlify.app/about/</link>

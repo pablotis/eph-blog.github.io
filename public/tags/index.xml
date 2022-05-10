@@ -6,6 +6,52 @@
     <description>Recent content in Tags on eph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <copyright>© eph-blog</copyright><atom:link href="https://eph-blog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© eph-blog</copyright>
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eph-blog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codigoabierto</title>
+      <link>https://eph-blog.netlify.app/tags/codigoabierto/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/tags/codigoabierto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eph</title>
+      <link>https://eph-blog.netlify.app/tags/eph/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/tags/eph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstats</title>
+      <link>https://eph-blog.netlify.app/tags/rstats/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/tags/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RstatsES</title>
+      <link>https://eph-blog.netlify.app/tags/rstatses/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/tags/rstatses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softwarelibre</title>
+      <link>https://eph-blog.netlify.app/tags/softwarelibre/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eph-blog.netlify.app/tags/softwarelibre/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

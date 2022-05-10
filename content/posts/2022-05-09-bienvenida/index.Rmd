@@ -1,0 +1,16 @@
+---
+title: Bienvenida
+author: Pablo Tiscornia
+date: '2022-05-09'
+slug: []
+categories: []
+tags:
+  - Rstats
+  - RstatsES
+  - eph
+  - codigoabierto
+  - softwarelibre
+draft: yes
+---
+
+Hola! Queda inauguado este espacio para compartir ejercicios de procesamiento de datos con la [Encuesta Permanente de Hogares (EPH-INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-31-58). La propuesta es mostrar y compartir distintos ejercicios de procesamiento de datos con los paquetes [eph](holatam.github.io/eph/) y [pyeph](https://linktr.ee/pyeph)

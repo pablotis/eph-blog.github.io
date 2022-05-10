@@ -1,0 +1,45 @@
+baseURL: http://example.org/
+languageCode: es-ar
+title: eph
+theme: hugo-ink
+paginate: 5
+copyright: © eph-blog
+pygmentsstyle: vs
+pygmentscodefences: yes
+pygmentscodefencesguesssyntax: yes
+googleAnalytics: UA-123-45
+disqusShortname: ink-demo
+params:
+  avatar: https://raw.githubusercontent.com/holatam/eph/master/man/figures/logo.png
+  disableDisqusTypes: page
+  featherIconsCDN: yes
+  mode: auto
+  social:
+    - icon: github
+      name: Github
+      url: https://github.com/holatam/eph
+    - icon: rss
+      name: RSS
+      url: /index.xml
+  subtitle: Espacio para la difusión de ejercicios con la eph
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: All posts
+      url: /posts
+      weight: 2
+    - name: About
+      url: /about
+      weight: 3
+    - name: Tags
+      url: /tags
+      weight: 4
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

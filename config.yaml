@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax: yes
 googleAnalytics: UA-123-45
 disqusShortname: ink-demo
 params:
-  #avatar: https://raw.githubusercontent.com/holatam/eph/master/man/figures/logo.png
+  avatar: https://raw.githubusercontent.com/pablotis/eph-blog.github.io/main/resources/_gen/images/ephr%2Bpyeph.png
   disableDisqusTypes: page
   featherIconsCDN: yes
   mode: auto
@@ -20,7 +20,7 @@ params:
       url: https://github.com/holatam/eph
     - icon: rss
       name: RSS
-      url: /index.xml
+      url: /index.html
   subtitle: Espacio para la difusión de ejercicios con la eph
 menu:
   main:

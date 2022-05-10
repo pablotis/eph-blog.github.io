@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eph</title>
-    <link>http://example.org/</link>
+    <link>https://eph-blog.netlify.app/</link>
     <description>Recent content on eph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <copyright>© eph-blog</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© eph-blog</copyright><atom:link href="https://eph-blog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://eph-blog.netlify.app/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://eph-blog.netlify.app/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     

@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax: yes
 googleAnalytics: UA-123-45
 disqusShortname: ink-demo
 params:
-  avatar: https://raw.githubusercontent.com/holatam/eph/master/man/figures/logo.png
+  #avatar: https://raw.githubusercontent.com/holatam/eph/master/man/figures/logo.png
   disableDisqusTypes: page
   featherIconsCDN: yes
   mode: auto
